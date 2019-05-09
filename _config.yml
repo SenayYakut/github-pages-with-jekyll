@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
+title: The essence of everything!
+author: Senay Yakut
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ** Senay Yakut ** is a Software Developer and a RN(Registered Nurse). Her blog is be a conbination of her Technical skills with her healthcare education and Nursing background. She has a big passion what she is doing. She will take you another state of mind and will guide you to find many easy tips to improve your lifes while staying up to date with your skills!
 
+ 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: SenayYaku
+github_username:  SenayYakut
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
