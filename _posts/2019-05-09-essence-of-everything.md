@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Welcome to Essence Of Everything!"
+date: 2019-05-09
 ---
 
 # Welcome
